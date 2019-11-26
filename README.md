@@ -14,7 +14,7 @@
 | Laba      | Laba 7  | Laba 8 |
 |:----------|:--------|:-------|
 | **Link**      |[Link1](shots/ShotLaba9.png)|[Link2](shots/ShotLaba10.png)|[Link3](shots/ShotLaba11.png)|
-|**Description**|arrays|functions|recursion|
+|**Description**|one-dimensional array|multidimensional arrays|
 
 # Other
 You can see all task [here](https://1drv.ms/w/s!ApM96gnEnHr4hmXY1U2ABbdlTcsh)

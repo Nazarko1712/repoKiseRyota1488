@@ -29,10 +29,10 @@
   
     2) Compily it.
     
-# Other
+# My projects
 
-You can see all task [here](https://1drv.ms/w/s!ApM96gnEnHr4hmXY1U2ABbdlTcsh)
+You can see all my projects [here](https://drive.google.com/open?id=1vPakvVomCtAiBmcSHAN6yhGcg9CqjJhX)
 
 # My contacts
-- Discord: PAPICH INSIDE#4195
-- Mail: drnazikgamer@gmail.com / shavaryn_ak19@nuwm.edu.ua
+- Discord: PAPICH INSIDE#4195 
+- Mail: shavaryn_ak19@nuwm.edu.ua

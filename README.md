@@ -19,10 +19,15 @@
 # How to execute any lab
 
 1. Copy content from *lab_name*.cpp.
+
 2. 
+
   a.1) Create new console project in Visual Studio.
+  
     2) Paste content from .cpp file to your project in VS, compily it.
+    
   b.1) Open .cpp in DEV.
+  
     2) Compily it.
     
 # Other

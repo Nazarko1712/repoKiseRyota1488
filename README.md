@@ -1,5 +1,5 @@
 # KiseRyota1488's repos
-![logo](githublogo.jpg)
+![githublogo](githublogo.jpg)
 **Programming language:** C++
 
 **Programm:** Visual Studio 2019

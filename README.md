@@ -1,5 +1,5 @@
 # KiseRyota1488's repos
-![logo](shots/fayetprod.png)
+![logo](images/githublogo.jpg)
 **Programming language:** C++
 
 **Programm:** Dev C++

@@ -20,9 +20,7 @@
 
 1. Copy content from *lab_name*.cpp.
 
-2. 
-
-  a.1) Create new console project in Visual Studio.
+2.a.1) Create new console project in Visual Studio.
   
     2) Paste content from .cpp file to your project in VS, compily it.
     

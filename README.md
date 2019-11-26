@@ -13,7 +13,7 @@
 
 | Laba      | Laba 7  | Laba 8 |
 |:----------|:--------|:-------|
-| **Link**      |[Link1](shots/ShotLaba9.png)|[Link2](shots/ShotLaba10.png)|[Link3](shots/ShotLaba11.png)|
+| **Link**      |[Link1](images/laba7.png)|[Link2](images/laba8.png)|
 |**Description**|one-dimensional array|multidimensional arrays|
 
 # Other

@@ -10,7 +10,7 @@
 |:----------|:--------|:-------|
 | **Link**      |[Task7](images/laba7.png)|[Task8](images/laba8.png)|
 |**Description**|one-dimensional array|multidimensional arrays|
-|**Source**|Lab7.cpp|Lab8.cpp|
+|**Source**|[Lab7.cpp](labs/lab7.cpp)|[Lab8.cpp](labs/lab8.cpp)|
 
 # How to execute any lab
 

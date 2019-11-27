@@ -1,14 +1,9 @@
 # KiseRyota1488's repos
 ![logo](images/123.png)
-# ABOUT MY LABS
+# MY LABS
 
-**Programming language:** C++
+**LABs:**
 
-**Programm:** Visual Studio 2019
-
-**Number of laboratories:** 2
-
-**Which labs i did:**
 - Lab 7, 8;
 
 | Laba      | Laba 7  | Laba 8 |

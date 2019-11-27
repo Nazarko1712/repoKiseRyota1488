@@ -8,8 +8,9 @@
 
 | Laba      | Laba 7  | Laba 8 |
 |:----------|:--------|:-------|
-| **Link**      |[Link1](images/laba7.png)|[Link2](images/laba8.png)|
+| **Link**      |[Task7](images/laba7.png)|[Task8](images/laba8.png)|
 |**Description**|one-dimensional array|multidimensional arrays|
+|**Source**|Lab7.cpp|Lab8.cpp|
 
 # How to execute any lab
 
